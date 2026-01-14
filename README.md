@@ -72,4 +72,4 @@ Download: **[Click here](documents/Test_Cases.xlsx)**
 ## 👤 Author
 
 **Fernanda Melo — QA Engineer **  
-LinkedIn: *(https://www.linkedin.com/in/fernanda-melo-qa/)*
+LinkedIn: *https://www.linkedin.com/in/fernanda-melo-qa/*
